@@ -7,4 +7,5 @@ document.getElementById("workbench.parts.statusbar").style.background = "#333"
 document.getElementById("workbench.parts.statusbar").style.color = "gray"
 ```
 And this is the result:
+
 ![](https://github.com/visvadw/design-assets/raw/master/vscode/images/statusbar-custom-dark-1.png)
