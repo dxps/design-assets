@@ -1,0 +1,23 @@
+
+Notes while preparing the webfonts building on a Linux Mint 18 system
+---------------------------------------------------------------------
+
+Prerequisites
+-------------
+
+$ sudo aptitude install gcc-multilib g++-multilib
+
+$ sudo add-apt-repository ppa:fontforge/fontforge
+$ sudo apt-get update
+
+$ sudo aptitude install python2.7-fontforge 
+
+- installed FontForge with Python support:
+   - looking into the previously added repo:
+$ apt-cache madison fontforge
+ fontforge | 20161012-0ubuntu1~xenial | http://ppa.launchpad.net/fontforge/fontforge/ubuntu xenial/main amd64 Packages
+ ...
+$ 
+   - the latest version was installed:
+$ sudo apt-get install fontforge=20161012-0ubuntu1~xenial
+ 
