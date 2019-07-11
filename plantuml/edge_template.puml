@@ -1,0 +1,106 @@
+@startuml
+scale 1000 width
+scale 600 height
+
+skinparam {
+backgroundColor #fcf8ef
+fontName Nunito-Semibold
+fontSize 13
+roundCorner 6
+dpi 300
+shadowing false
+titleFontName Nunito-Bold
+titleFontColor #805230
+titleFontSize 17
+}
+
+skinparam activity {
+  backgroundColor #f9e6b1
+  borderColor #fcf8ef
+  borderThickness 8
+  diamondBorderColor #f9e6b1
+  diamondBackgroundColor #f9e6b1
+  diamondFontName Nunito-Semibold
+  diamondFontSize 12
+  fontName Nunito-SemiBold
+  fontSize 13
+  startColor #b88b64
+  endColor #b88b64
+}
+
+skinparam actor {
+  FontName Nunito Light
+  FontSize 13
+}
+
+skinparam arrow {
+  color #b88b64
+  FontName Nunito-Semibold
+  FontSize 13
+}
+
+skinparam note {
+  FontName Nunito
+  FontSize 13
+  BorderColor #bbb
+}
+
+skinparam footer {
+  FontName Nunito
+  FontSize 14
+  FontColor DimGrey
+}
+
+skinparam sequence {
+  actorBorderThickness 1.2
+  backgroundColor #fcf8ef
+  boxBorderColor #eee
+  boxBackgroundColor red
+  participantBorderThickness 1.2
+  LifeLineBorderColor #ccc
+  ParticipantFontName Nunito
+  ParticipantFontSize 12
+  DividerBorderColor #eee
+  DividerBackgroundColor #fff
+  DividerFontName Deutsche Bank Display
+  DividerFontSize 14
+  DividerFontStyle Light
+  TitleFontName Deutsche Bank Display
+  TitleFontStyle Light
+  TitleFontSize 14
+}
+
+skinparam swimlane {
+  borderColor #f9e6b1
+  titleFontName Nunito-Semibold
+  titleFontColor #805230
+  titleFontSize 16
+}
+ 
+
+title
+
+Title
+
+<font size="10" color="#b88b64">2019-06-28</font>
+
+endtitle
+
+
+| First User |
+start
+:Do action;
+| Some System|
+:Notify;
+| Another User |
+:Acknowledge;
+| Some System|
+:Push data;
+|   Target System |
+: Store;
+ 
+
+stop
+
+@enduml
+
