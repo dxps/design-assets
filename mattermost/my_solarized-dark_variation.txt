@@ -1,0 +1,6 @@
+
+This is Solarized Dark theme for Mattermost Chat with some color customizations:
+
+{"sidebarBg":"#073642","sidebarText":"#fdf6e3","sidebarUnreadText":"#fdf6e3","sidebarTextHoverBg":"#cb4b16","sidebarTextActiveBorder":"#00cfb5","sidebarTextActiveColor":"#fdf6e3","sidebarHeaderBg":"#002b36","sidebarHeaderTextColor":"#fdf6e3","onlineIndicator":"#2aa198","awayIndicator":"#e0b333","dndIndicator":"#f74343","mentionBj":"#dc322f","mentionColor":"#ffffff","centerChannelBg":"#073642","centerChannelColor":"#93a1a1","newMessageSeparator":"#cb4b16","linkColor":"#268bd2","buttonBg":"#859900","buttonColor":"#fdf6e3","errorTextColor":"#dc322f","mentionHighlightBg":"#073642","mentionHighlightLink":"#4dbfb5","codeTheme":"solarized-dark","mentionBg":"#dc322f"}
+
+
