@@ -2,14 +2,15 @@
     "sidebarBg": "#073642",
     "sidebarText": "#fdf6e3",
     "sidebarUnreadText": "#fdf6e3",
-    "sidebarTextHoverBg": "#0D2A34",
-    "sidebarTextActiveBorder": "#00cfb5",
+    "sidebarTextHoverBg": "#0d2a34",
+    "sidebarTextActiveBorder": "#002b36",
     "sidebarTextActiveColor": "#fdf6e3",
     "sidebarHeaderBg": "#002b36",
     "sidebarHeaderTextColor": "#fdf6e3",
     "onlineIndicator": "#2aa198",
     "awayIndicator": "#e0b333",
     "dndIndicator": "#f74343",
+    "mentionBg": "#0d2a34",
     "mentionBj": "#dc322f",
     "mentionColor": "#ffffff",
     "centerChannelBg": "#073642",
@@ -21,7 +22,5 @@
     "errorTextColor": "#dc322f",
     "mentionHighlightBg": "#073642",
     "mentionHighlightLink": "#4dbfb5",
-    "codeTheme": "solarized-dark",
-    "mentionBg": "#dc322f"
+    "codeTheme": "solarized-dark"
 }
-
