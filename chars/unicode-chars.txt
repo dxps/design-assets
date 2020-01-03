@@ -1,0 +1,9 @@
+
+⌘  – &#x2318; – &#8984; – Command key symbol
+⌥  – &#x2325; – &#8997; – Option key symbol
+⇧  – &#x21E7; – &#8679; – Shift key symbol
+⎋  – &#x238B; – &#9099; – ESC key symbol
+⇪  – &#x21ea; – &#8682; – Capslock key symbol
+⏎  – &#x23ce; – &#9166; – Return key symbol
+⌫  – &#x232b; – &#9003; – Delete / Backspace key symbol
+
