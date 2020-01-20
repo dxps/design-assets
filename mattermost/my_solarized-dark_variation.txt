@@ -1,5 +1,5 @@
 {
-    "sidebarBg": "#073642",
+    "sidebarBg": "#00313E",
     "sidebarText": "#fdf6e3",
     "sidebarUnreadText": "#fdf6e3",
     "sidebarTextHoverBg": "#0d2a34",
@@ -13,14 +13,14 @@
     "mentionBg": "#0d2a34",
     "mentionBj": "#dc322f",
     "mentionColor": "#ffffff",
-    "centerChannelBg": "#073642",
+    "centerChannelBg": "#00313E",
     "centerChannelColor": "#93a1a1",
     "newMessageSeparator": "#cb4b16",
     "linkColor": "#268bd2",
     "buttonBg": "#859900",
     "buttonColor": "#fdf6e3",
     "errorTextColor": "#dc322f",
-    "mentionHighlightBg": "#073642",
+    "mentionHighlightBg": "#00313E",
     "mentionHighlightLink": "#4dbfb5",
-    "codeTheme": "solarized-dark"
+    "codeTheme": "solarized-dark-devisions"
 }
