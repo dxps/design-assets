@@ -1,3 +1,9 @@
+## Theme specifics
+
+- [Qiita theme > Status Bar colors](qiita_theme.md)
+
+<br/>
+
 ## Status Bar > BG & FG when Debugging
 
 Settings to customize the foreground and background of the status bar when you are in debug mode and the theme comes with unpleasant colors for the status bar:
