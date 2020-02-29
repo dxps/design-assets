@@ -1,3 +1,7 @@
 
- A nice background color for `Rust_programming_language_black_logo.svg_-9.png` is `101010`.
+### Appropriate background colors
 
+| image | color |
+| --- | --- |
+| `rust_transp-bg_black.png` | `101010` |
+| `rust_transp-bg_green-2_... .png` | `313E42` |
