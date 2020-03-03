@@ -1,10 +1,10 @@
 <scheme name="devisions - Material Custom Theme (Vipassana)" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-03-02T17:42:09</property>
+    <property name="created">2020-03-03T14:52:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-02T17:42:18</property>
+    <property name="modified">2020-03-03T14:53:09</property>
     <property name="originalScheme">devisions - Material Custom Theme (Vipassana)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -73,8 +73,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="37474f" />
     <option name="SELECTED_INDENT_GUIDE" value="9688" />
     <option name="SELECTED_TEARLINE_COLOR" value="9688" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SELECTION_BACKGROUND" value="172a2e" />
+    <option name="SELECTION_FOREGROUND" value="d52b" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688c0" />

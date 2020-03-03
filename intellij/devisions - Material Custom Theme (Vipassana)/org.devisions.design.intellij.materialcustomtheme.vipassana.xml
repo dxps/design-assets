@@ -5,11 +5,11 @@
   <name>devisions - Material Custom Theme (Vipassana)</name>
   <colors>
     <color id="background" value="303f42ff"/>
-    <color id="foreground" value="b0bec5ff"/>
+    <color id="foreground" value="cad8dfff"/>
     <color id="text" value="607d8bff"/>
     <color id="highlight" value="425b67ff"/>
-    <color id="selectionBackground" value="546e7aff"/>
-    <color id="selectionForeground" value="ffffffff"/>
+    <color id="selectionBackground" value="172a2eff"/>
+    <color id="selectionForeground" value="00d52bff"/>
     <color id="button" value="2e3c43ff"/>
     <color id="secondaryBackground" value="32424aff"/>
     <color id="disabled" value="415967ff"/>
