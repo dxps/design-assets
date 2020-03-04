@@ -18,7 +18,7 @@
     <color id="secondBorder" value="2a373eff"/>
     <color id="treeSelection" value="546e7a50"/>
     <color id="notifications" value="323232ff"/>
-    <color id="accent" value="009688ff"/>
+    <color id="accent" value="00bd2cff"/>
     <color id="excluded" value="2e3c43ff"/>
   </colors>
   <themeId>org.devisions.design.intellij.materialcustomtheme.vipassana</themeId>

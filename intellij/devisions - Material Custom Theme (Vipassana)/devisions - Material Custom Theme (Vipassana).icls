@@ -1,10 +1,10 @@
 <scheme name="devisions - Material Custom Theme (Vipassana)" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-03-03T14:52:55</property>
+    <property name="created">2020-03-04T10:17:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-03T14:53:09</property>
+    <property name="modified">2020-03-04T10:17:31</property>
     <property name="originalScheme">devisions - Material Custom Theme (Vipassana)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -487,7 +487,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="8c9edf" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -557,7 +557,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="9aaced" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -594,7 +594,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="acea6e" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -630,13 +630,11 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -1110,19 +1108,17 @@
     </option>
     <option name="JAVA.IMPORT_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA.MODIFIER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="bd2c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
