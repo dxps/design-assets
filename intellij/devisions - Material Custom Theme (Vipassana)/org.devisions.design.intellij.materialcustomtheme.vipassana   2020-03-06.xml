@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>org.devisions.design.intellij.materialcustomtheme.vipassana</id>
+  <editorColorsScheme>devisions - Material Custom Theme (Vipassana)</editorColorsScheme>
+  <dark>true</dark>
+  <name>devisions - Material Custom Theme (Vipassana)</name>
+  <colors>
+    <color id="background" value="2a393cff"/>
+    <color id="foreground" value="cad8dfff"/>
+    <color id="text" value="607d8bff"/>
+    <color id="highlight" value="425b67ff"/>
+    <color id="selectionBackground" value="172a2eff"/>
+    <color id="selectionForeground" value="00d52bff"/>
+    <color id="button" value="2e3c43ff"/>
+    <color id="secondaryBackground" value="32424aff"/>
+    <color id="disabled" value="415967ff"/>
+    <color id="contrast" value="1e272cff"/>
+    <color id="tableSelected" value="314549ff"/>
+    <color id="secondBorder" value="2a373eff"/>
+    <color id="treeSelection" value="546e7a50"/>
+    <color id="notifications" value="323232ff"/>
+    <color id="accent" value="00bd2cff"/>
+    <color id="excluded" value="2e3c43ff"/>
+  </colors>
+  <themeId>org.devisions.design.intellij.materialcustomtheme.vipassana</themeId>
+</mtTheme>

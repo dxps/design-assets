@@ -1,0 +1,10 @@
+
+Exported settings:
+
+* Code Style (schemes)
+* Key maps
+* Key maps (schemes)
+* MaterialCustomThemeConfig
+* MaterialThemeConfig
+
+
