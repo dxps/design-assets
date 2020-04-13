@@ -1,13 +1,13 @@
 <scheme name="devisions - Material Custom Theme (Vipassana)" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-03-05T15:21:47</property>
+    <property name="created">2020-04-13T21:03:47</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-05T15:21:56</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-04-13T21:04:22</property>
     <property name="originalScheme">devisions - Material Custom Theme (Vipassana)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="0.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="TheSansMonoCd" />
     <option name="EDITOR_FONT_SIZE" value="15" />
@@ -18,18 +18,18 @@
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="TheSansMonoCd" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="253437" />
+    <option name="CARET_COLOR" value="e1d4" />
+    <option name="CARET_ROW_COLOR" value="1a292c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -57,7 +57,7 @@
     <option name="FILESTATUS_addedOutside" value="d33682" />
     <option name="FILESTATUS_changelistConflict" value="cb4b16" />
     <option name="FILESTATUS_modifiedOutside" value="2aa198" />
-    <option name="GUTTER_BACKGROUND" value="303f42" />
+    <option name="GUTTER_BACKGROUND" value="2a393c" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
@@ -73,8 +73,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="37474f" />
     <option name="SELECTED_INDENT_GUIDE" value="9688" />
     <option name="SELECTED_TEARLINE_COLOR" value="9688" />
-    <option name="SELECTION_BACKGROUND" value="172a2e" />
-    <option name="SELECTION_FOREGROUND" value="d52b" />
+    <option name="SELECTION_BACKGROUND" value="d171a" />
+    <option name="SELECTION_FOREGROUND" value="e1d4" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688c0" />
@@ -93,9 +93,9 @@
     <option name="ScrollBar.hoverTrackColor" value="263238" />
     <option name="ScrollBar.thumbColor" value="9688c0" />
     <option name="ScrollBar.trackColor" value="263238" />
-    <option name="TAB_UNDERLINE" value="9688" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="9688c0" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="TAB_UNDERLINE" value="24da2b" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="637d89" />
+    <option name="TEARLINE_COLOR" value="425057" />
     <option name="TOOLTIP" value="32424a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
@@ -114,7 +114,7 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="7367" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
@@ -515,12 +515,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="e1d4" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="e1d4" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -540,7 +540,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="e1d4" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -557,7 +557,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="9aaced" />
+        <option name="FOREGROUND" value="a9b4c9" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -633,12 +633,12 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="e1d4" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="bedbc2" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -780,12 +780,6 @@
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
-    <option name="GO_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_LINE_COMMENT">
@@ -1012,8 +1006,10 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="172a2e" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="BACKGROUND" value="1a292c" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="7dd681" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IGNORE.BRACKET">
@@ -1080,7 +1076,9 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="667980" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -2885,27 +2883,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="6e62" />
+        <option name="FOREGROUND" value="e9dd" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1b5e20" />
+        <option name="FOREGROUND" value="cfdb4f" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="6be7" />
+        <option name="FOREGROUND" value="75beff" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="283593" />
+        <option name="FOREGROUND" value="b9aeff" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="795548" />
+        <option name="FOREGROUND" value="d8988a" />
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER">
@@ -3293,7 +3291,7 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="7367" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
@@ -3318,7 +3316,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="4d40" />
+        <option name="FOREGROUND" value="7367" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
@@ -3367,12 +3365,12 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="24da2b" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="637d89" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -3383,7 +3381,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="303f42" />
+        <option name="BACKGROUND" value="2a393c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3468,10 +3466,10 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="172a2e" />
-        <option name="EFFECT_COLOR" value="bd2c" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="d171a" />
+        <option name="EFFECT_COLOR" value="5cb0ff" />
+        <option name="ERROR_STRIPE_COLOR" value="5cb0ff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
