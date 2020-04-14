@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>devisions - Material Custom Theme (Solarized Dark)</id>
+  <editorColorsScheme>devisions - Material Custom Theme (Solarized Dark)</editorColorsScheme>
+  <dark>true</dark>
+  <name>devisions - Material Custom Theme (Solarized Dark)</name>
+  <colors>
+    <color id="background" value="183741ff"/>
+    <color id="foreground" value="cad8dfff"/>
+    <color id="text" value="607d8bff"/>
+    <color id="highlight" value="425b67ff"/>
+    <color id="selectionBackground" value="172a2eff"/>
+    <color id="selectionForeground" value="aaffb5ff"/>
+    <color id="button" value="004655ff"/>
+    <color id="secondaryBackground" value="0e3c4aff"/>
+    <color id="disabled" value="415967ff"/>
+    <color id="contrast" value="1e272cff"/>
+    <color id="tableSelected" value="183741ff"/>
+    <color id="secondBorder" value="00404fff"/>
+    <color id="treeSelection" value="546e7a50"/>
+    <color id="notifications" value="142326ff"/>
+    <color id="accent" value="aaffb5ff"/>
+    <color id="excluded" value="2e3c43ff"/>
+  </colors>
+  <themeId>devisions - Material Custom Theme (Solarized Dark)</themeId>
+</mtTheme>
