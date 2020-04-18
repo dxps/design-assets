@@ -1,10 +1,10 @@
 <scheme name="devisions - MatCustThemeSolarDark" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-04-18T16:33:02</property>
+    <property name="created">2020-04-18T20:50:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-18T16:33:11</property>
+    <property name="modified">2020-04-18T20:51:07</property>
     <property name="originalScheme">devisions - MatCustThemeSolarDark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -31,7 +31,7 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="aaffb5" />
     <option name="CARET_ROW_COLOR" value="f2c3a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e3c4a" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -61,8 +61,8 @@
     <option name="GUTTER_BACKGROUND" value="f3c4a" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
-    <option name="LINE_NUMBERS_COLOR" value="475f63" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
+    <option name="LINE_NUMBERS_COLOR" value="1a626c" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="aaffb5" />
     <option name="METHOD_SEPARATORS_COLOR" value="3a494c" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -82,9 +82,9 @@
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="263238" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="968880" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="253437" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="afa2" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.thumbColor" value="44575a" />
+    <option name="ScrollBar.Mac.thumbColor" value="19545e" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="9688c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="263238" />
@@ -96,14 +96,14 @@
     <option name="ScrollBar.trackColor" value="263238" />
     <option name="TAB_UNDERLINE" value="24da2b" />
     <option name="TAB_UNDERLINE_INACTIVE" value="637d89" />
-    <option name="TEARLINE_COLOR" value="425057" />
+    <option name="TEARLINE_COLOR" value="19545e" />
     <option name="TOOLTIP" value="32424a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="37474f" />
+    <option name="VISUAL_INDENT_GUIDE" value="19545e" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
   </colors>
@@ -200,7 +200,7 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="607d8b" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="BACKGROUND" value="f3c4a" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -1299,7 +1299,7 @@
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="12404b" />
+        <option name="BACKGROUND" value="183741" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
