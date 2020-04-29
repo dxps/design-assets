@@ -58,12 +58,21 @@
     "prettier.tabWidth": 4,
     "prettier.useTabs": true,
     "prettier.printWidth": 100,
+    "prettier.disableLanguages": [
+        "[markdown]"
+    ],
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "quarkus.tools.debug.terminateProcessOnExit": "Always terminate",
-    "[markdown]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "quarkus.tools.alwaysShowWelcomePage": false,
     "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"/Users/mariusi/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1/server/lombok.jar\"",
+    "go.autocompleteUnimportedPackages": true,
+    "go.coverOnSingleTest": true,
+    "markdownlint.config": {
+        "MD033": false,
+        "MD041": false
+    }
 }
