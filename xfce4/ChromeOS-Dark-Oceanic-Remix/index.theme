@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ChromeOS-Dark-Oceanic-Remix
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ChromeOS-Dark-Oceanic-Remix
+MetacityTheme=ChromeOS-Dark-Oceanic-Remix
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
