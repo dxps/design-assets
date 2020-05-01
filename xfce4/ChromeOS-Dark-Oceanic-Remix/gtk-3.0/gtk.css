@@ -47,7 +47,6 @@
 .background {
   background-color: #0a1d21;
   color: #60e6b1;
-  border-radius: 4px;
 }
 
 /*
@@ -1166,8 +1165,8 @@ toolbar {
 toolbar.osd, .app-notification, frame.documents-dropdown {
   transition: box-shadow 75ms cubic-bezier(0, 0, 0.2, 1);
   padding: 4px;
-  border-radius: 4px;
-  box-shadow: 0 2px 2.4px -1px rgba(0, 0, 0, 0.2), 0 4px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 6px 0 rgba(0, 0, 0, 0.12), inset 0 1px rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 2px 2.4px -1px rgba(0, 0, 0, 0.3), 0 4px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 6px 0 rgba(0, 0, 0, 0.12), inset 0 1px rgba(255, 255, 255, 0.1);
   background-color: #12424c;
 }
 
