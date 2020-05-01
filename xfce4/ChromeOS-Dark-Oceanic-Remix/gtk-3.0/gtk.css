@@ -46,7 +46,8 @@
  ***************/
 .background {
   background-color: #0a1d21;
-  color: #52c498;
+  color: #60e6b1;
+  border-radius: 4px;
 }
 
 /*
@@ -61,17 +62,17 @@
 
 .gtkstyle-fallback {
   background-color: #0a1d21;
-  color: #52c498;
+  color: #60e6b1;
 }
 
 .gtkstyle-fallback:hover {
   background-color: #040c0d;
-  color: #52c498;
+  color: #60e6b1;
 }
 
 .gtkstyle-fallback:active {
   background-color: black;
-  color: #52c498;
+  color: #60e6b1;
 }
 
 .gtkstyle-fallback:disabled {
@@ -86,7 +87,7 @@
 
 .view {
   background-color: #152b30;
-  color: #52c498;
+  color: #60e6b1;
 }
 
 .view:hover {
@@ -127,7 +128,7 @@ XfdesktopIconView.view .rubberband {
 
 flowbox flowboxchild {
   padding: 4px;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 .content-view .tile:selected {
@@ -153,7 +154,7 @@ button label:disabled {
 }
 
 label.osd {
-  border-radius: 4px;
+  border-radius: 6px;
   background-color: rgba(18, 45, 51, 0.9);
   color: white;
 }
@@ -208,7 +209,7 @@ spinbutton:not(.vertical),
 entry {
   min-height: 32px;
   padding: 0 8px;
-  border-radius: 4px 4px 0 0;
+  border-radius: 6px 6px 0 0;
   caret-color: currentColor;
   transition: all 75ms cubic-bezier(0, 0, 0.2, 1), border-image 225ms cubic-bezier(0, 0, 0.2, 1);
   border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #3db3cc 0%, transparent 0%) 0 0 0/0 0 0px;
@@ -238,7 +239,7 @@ spinbutton.flat:not(.vertical),
 entry.flat {
   min-height: 0;
   padding: 2px;
-  border-radius: 0;
+  border-radius: 6px;
   background-color: transparent;
 }
 
@@ -342,7 +343,7 @@ entry progress {
 }
 
 spinbutton.vertical entry, .gedit-search-slider .linked:not(.vertical) > entry {
-  border-radius: 4px;
+  border-radius: 6px;
   transition: all 75ms cubic-bezier(0, 0, 0.2, 1);
   border-image: none;
   box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.3), 0 1px 2px -1px rgba(0, 0, 0, 0.24), 0 1px 2px -0.6px rgba(0, 0, 0, 0.17);
@@ -488,7 +489,7 @@ button {
   min-height: 24px;
   min-width: 16px;
   padding: 4px 8px;
-  border-radius: 4px;
+  border-radius: 6px;
   font-weight: 500;
   transition: all 75ms cubic-bezier(0, 0, 0.2, 1), background-size 300ms cubic-bezier(0, 0, 0.2, 1), background-image 1200ms cubic-bezier(0, 0, 0.2, 1);
   outline: none;
@@ -498,7 +499,7 @@ button {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1000% 1000%;
-  color: #eeeeee;
+  color: #60e6b1;
 }
 
 
@@ -690,7 +691,7 @@ button.image-button {
 button.text-button.image-button {
   min-width: 24px;
   padding: 4px;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 
@@ -724,7 +725,7 @@ popover.background .linked.vertical > button.model:not(:only-child), actionbar >
 button.flat:not(:only-child),
 .linked.vertical >
 button.flat:not(:only-child) {
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 toolbar .linked:not(.vertical) > button:not(:only-child).image-button:not(.text-button), .titlebar .linked:not(.vertical) > button:not(:only-child).image-button:not(.text-button):not(.suggested-action):not(.destructive-action), popover.background.menu .linked:not(.vertical) > button:not(:only-child).image-button:not(.text-button),
@@ -951,8 +952,8 @@ modelbutton.flat,
 .menuitem.button.flat {
   min-height: 28px;
   padding: 0 8px;
-  border-radius: 4px;
-  color: #eeeeee;
+  border-radius: 6px;
+  color: #60e6b1;
 }
 
 modelbutton.flat arrow.left {
@@ -1285,7 +1286,7 @@ searchbar > revealer > box {
 
 .titlebar .subtitle:backdrop,
 .titlebar .dim-label:backdrop {
-  color: rgba(224, 224, 224, 0.5);
+  color: rgba(224, 224, 224, 0.7);
 }
 
 .titlebar .titlebar {
@@ -1461,7 +1462,7 @@ searchbar > revealer > box {
 .tiled-left .titlebar,
 .maximized .titlebar,
 .fullscreen .titlebar {
-  border-radius: 0;
+  border-radius: 4px;
   box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.3), 0 1px 2px -1px rgba(0, 0, 0, 0.24), 0 1px 2px -0.6px rgba(0, 0, 0, 0.17);
 }
 
@@ -1594,7 +1595,7 @@ treeview.view:selected {
 }
 
 treeview.view:hover, treeview.view:selected {
-  border-radius: 0;
+  border-radius: 4px;
 }
 
 treeview.view.separator {
@@ -5111,7 +5112,7 @@ UnityDecoration {
 UnityDecoration .top {
   padding: 0 2px;
   border-style: none;
-  border-radius: 4px 4px 0 0;
+  border-radius: 4px;
   box-shadow: inset 0 1px rgba(255, 255, 255, 0.1);
   background-color: #122d33;
   color: #e0e0e0;
@@ -5625,12 +5626,12 @@ MsdOsdWindow.background.osd {
 }
 
 MsdOsdWindow.background.osd .trough {
-  border-radius: 0;
+  border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.12);
 }
 
 MsdOsdWindow.background.osd .progressbar {
-  border-radius: 0;
+  border-radius: 4px;
   background-color: #3db3cc;
 }
 
@@ -6246,6 +6247,7 @@ XfdesktopIconView.view .rubberband {
 
 .thunar .standard-view.frame {
   border-style: none;
+  border-radius: 4px;
 }
 
 .thunar .sidebar .view:not(:selected) {

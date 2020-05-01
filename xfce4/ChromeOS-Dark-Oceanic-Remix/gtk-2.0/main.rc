@@ -2011,6 +2011,10 @@ style "combobox" {
   # This affects only the button beside an entry
   GtkButton::inner-border = {0, 0, 0, 0}
 
+  engine "xfce" {
+    smooth_edge = TRUE
+  }
+
   # For the sake of sanity style buttons this way
   engine "pixmap" {
 
