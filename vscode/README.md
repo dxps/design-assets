@@ -1,3 +1,9 @@
+
+## 2020-05
+
+On my Xubuntu 20.04 I am using [`settings__xubuntu_snap.json`](./settings__xubuntu_snap.json) file as VSCode settings.
+
+
 ## Theme specifics
 
 - [Qiita theme > Status Bar colors](qiita_theme.md)
