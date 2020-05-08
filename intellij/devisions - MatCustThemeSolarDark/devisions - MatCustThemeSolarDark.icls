@@ -1,28 +1,28 @@
 <scheme name="devisions - MatCustThemeSolarDark" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-04-23T21:55:19</property>
+    <property name="created">2020-05-05T16:45:55</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-23T21:55:47</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-05T16:46:10</property>
     <property name="originalScheme">devisions - MatCustThemeSolarDark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="TheSansMonoCd" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="TheSansMonoCd W5Regular" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="TheSansMonoCd" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono CJK TC" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
@@ -990,8 +990,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1a292c" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="215457" />
         <option name="ERROR_STRIPE_COLOR" value="7dd681" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -3451,7 +3450,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d171a" />
+        <option name="BACKGROUND" value="215457" />
         <option name="EFFECT_COLOR" value="5cb0ff" />
         <option name="ERROR_STRIPE_COLOR" value="5cb0ff" />
         <option name="EFFECT_TYPE" value="1" />
