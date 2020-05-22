@@ -1,0 +1,95 @@
+{
+	"bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+	"dart.closingLabels": false,
+	"dart.debugExternalLibraries": false,
+	"dart.debugSdkLibraries": false,
+	"dart.lineLength": 100,
+	"editor.fontFamily": "TheSansMonoCd, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontSize": 17,
+	"editor.formatOnSave": true,
+	"editor.lineHeight": 21,
+	"editor.minimap.enabled": false,
+	"editor.scrollBeyondLastColumn": 2,
+	"editor.scrollBeyondLastLine": false,
+	"editor.smoothScrolling": true,
+	"git.confirmSync": false,
+	"go.formatTool": "goimports",
+	"go.useLanguageServer": true,
+	"python.formatting.provider": "black",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontFamily": "Iosevka",
+	"vetur.validation.template": false,
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "Solarized Dark",
+	"workbench.list.horizontalScrolling": true,
+	"workbench.startupEditor": "newUntitledFile",
+	"code-runner.executorMap": {
+		"rust": "cargo run --bin $fileNameWithoutExt $fileName"
+	},
+	"workbench.iconTheme": "helium-icon-theme",
+	"workbench.colorCustomizations": {
+		"breadcrumb.foreground": "#508670",
+		"breadcrumb.focusForeground": "#5ec59c",
+		"breadcrumb.activeSelectionForeground": "#508670",
+		"breadcrumbPicker.background": "#374549",
+		"breadcrumbPicker.ground": "#374549",
+		"editorCursor.background": "#013b24",
+		"editorCursor.foreground": "#60e6b1",
+		"editor.background": "#122d33",
+		"editorGroupHeader.tabsBackground": "#122d33",
+		"tab.activeBackground": "#122d33",
+		"tab.activeBorder": "#3db38f",
+		"tab.activeForeground": "#1ce9a8",
+		"tab.inactiveBackground": "#122d33",
+		"sideBar.background": "#122d33",
+		"sideBar.border": "#002b36",
+		"statusBar.background": "#122d33",
+		"statusBar.foreground": "#508670",
+		"statusBar.debuggingBackground": "#002b36",
+		"statusBar.debuggingForeground": "#C6A82A",
+		"statusBar.noFolderBackground": "#002b36"
+	},
+	"workbench.preferredHighContrastColorTheme": "Solarized Dark",
+	"workbench.preferredDarkColorTheme": "Solarized Dark",
+	"workbench.activityBar.visible": false,
+	"[vue]": {
+		"editor.defaultFormatter": "octref.vetur"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 100,
+	"prettier.disableLanguages": [
+		"[markdown]"
+	],
+	"[markdown]": {
+		"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+	},
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"quarkus.tools.debug.terminateProcessOnExit": "Always terminate",
+	"quarkus.tools.alwaysShowWelcomePage": false,
+	"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"/Users/mariusi/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1/server/lombok.jar\"",
+	"go.autocompleteUnimportedPackages": true,
+	"go.coverOnSingleTest": true,
+	"markdownlint.config": {
+		"MD001": false,
+		"MD009": false,
+		"MD012": false,
+		"MD014": false,
+		"MD022": false,
+		"MD031": false,
+		"MD032": false,
+		"MD033": false,
+		"MD040": false,
+		"MD041": false
+	},
+	"terminal.integrated.fontSize": 15,
+	"window.menuBarVisibility": "toggle"
+}
