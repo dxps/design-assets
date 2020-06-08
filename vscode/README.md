@@ -1,4 +1,13 @@
 
+## 2020-06
+
+Now I am using a customized Solarized Dark based theme.<br/>
+[`settings__mb.json`](./settings__mb.json) contains the full settings file used on `mb` laptop.
+
+And this is a sample of the theme:
+![my custom Solarized Dark](./images/my_custom_solarized_dark.png)
+
+
 ## 2020-05
 
 On my Xubuntu 20.04 I am using [`settings__xubuntu_snap.json`](./settings__xubuntu_snap.json) file as VSCode settings.
