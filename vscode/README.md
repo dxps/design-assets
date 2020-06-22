@@ -1,5 +1,16 @@
 
-## 2020-06
+
+## 2020-06-22
+
+Using _Community Material Theme_ and some some other customizations such as theme specific color customizations, the lovely "M+ 1mn" font, and dart.lineLength extended to 117. These are backed up in `settings___2020-06-22.json` file.
+
+![Sample screenshot](./images/2020-06-22_23h55m.png)
+
+
+
+<br/>
+
+## 2020-06-08
 
 Now I am using a customized Solarized Dark based theme.<br/>
 [`settings__mb.json`](./settings__mb.json) contains the full settings file used on `mb` laptop.
@@ -8,10 +19,14 @@ And this is a sample of the theme:
 ![my custom Solarized Dark](./images/my_custom_solarized_dark.png)
 
 
+<br/>
+
 ## 2020-05
 
 On my Xubuntu 20.04 I am using [`settings__xubuntu_snap.json`](./settings__xubuntu_snap.json) file as VSCode settings.
 
+
+<br/>
 
 ## Theme specifics
 
@@ -32,6 +47,10 @@ Settings to customize the foreground and background of the status bar when you a
 }
 ```
 
+
+
+<br/>
+
 ## Dart > Closing Labels
 
 You can turn off showing the closing labels using:
@@ -41,6 +60,10 @@ You can turn off showing the closing labels using:
 }
 ```
 
+
+
+<br/>
+
 ## Debug Console > A very condensed font
 
 This is what I currently use:
@@ -49,6 +72,10 @@ This is what I currently use:
     "debug.console.fontFamily": "PhoenicaMono200, '64-SRC-Medium'",
 }
 ```
+
+
+
+<br/>
 
 ## Old Note
 
