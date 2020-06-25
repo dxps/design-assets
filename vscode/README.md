@@ -1,5 +1,17 @@
 
 
+## 2020-06-25
+
+
+Added `editorSuggetWidget` colors for an better contrast.<br/>
+Settings saved in [settings___2020-06-25.json](./settings___2020-06-25.json) file.
+
+![sample](./images/2020-06-25_editorSuggestWidget_colors.png)
+
+
+
+<br/>
+
 ## 2020-06-22
 
 Using _Community Material Theme_ and some some other customizations such as theme specific color customizations, the lovely "M+ 1mn" font, and dart.lineLength extended to 117. These are backed up in `settings___2020-06-22.json` file.
