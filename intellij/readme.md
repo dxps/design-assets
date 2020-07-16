@@ -1,12 +1,23 @@
 ## IntelliJ IDEA > Design Assets
 
-My IntelliJ (maybe not IDEA specific) related design artifacts.
+My IntelliJ (not IDEA specific) related design artifacts. Nowadays, I am using VSCode more than IDEA, but still I prefer to keep a journal on this part.
+
+<br/>
+
+### 2020-07-16 | Material Design Custom Theme - Community flavor
+
+Inspired and influenced by VSCode's [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme), I am now using this flavor.
+See [devisions - MCT Comm](./devisions%20-%20MCT%20Comm) for details.
+
+<br/>
 
 ### 2020-04-20 | MatCustThemeSolarDark
 
 Still using a custom green influenced version of Material Custom Theme saved in [devisions - MatCustThemeSolarDark](./devisions%20-%20MatCustThemeSolarDark/).
 
-### Status
+### Older state
+
+<br/>
 
 Currently, I am using:
 

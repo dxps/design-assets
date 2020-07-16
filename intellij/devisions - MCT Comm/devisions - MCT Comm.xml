@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>devisions - MCT Comm</id>
+  <editorColorsScheme>devisions - MCT Comm</editorColorsScheme>
+  <dark>true</dark>
+  <name>devisions - MCT Comm</name>
+  <colors>
+    <color id="background" value="223238ff"/>
+    <color id="foreground" value="9ab3bfff"/>
+    <color id="text" value="607d8bff"/>
+    <color id="highlight" value="768f9bff"/>
+    <color id="selectionBackground" value="223238ff"/>
+    <color id="selectionForeground" value="67bc72ff"/>
+    <color id="button" value="223238ff"/>
+    <color id="secondaryBackground" value="223238ff"/>
+    <color id="disabled" value="415967ff"/>
+    <color id="contrast" value="2c3a40ff"/>
+    <color id="tableSelected" value="2c3a40ff"/>
+    <color id="secondBorder" value="223238ff"/>
+    <color id="treeSelection" value="0f3c4a50"/>
+    <color id="notifications" value="142326ff"/>
+    <color id="accent" value="aaffb5ff"/>
+    <color id="excluded" value="2e3c43ff"/>
+  </colors>
+  <themeId>devisions - MCT Comm</themeId>
+</mtTheme>
