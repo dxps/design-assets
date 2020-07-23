@@ -4,7 +4,7 @@ My IntelliJ (not IDEA specific) related design artifacts. Nowadays, I am using V
 
 <br/>
 
-### 2020-07-16 | Material Design Custom Theme - Community flavor
+### 2020-07-23 | Material Custom Theme - Community flavor
 
 Inspired and influenced by VSCode's [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme), I am now using this flavor.
 See [devisions - MCT Comm](./devisions%20-%20MCT%20Comm) for details.

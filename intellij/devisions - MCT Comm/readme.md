@@ -7,4 +7,6 @@ Related to this, please find below a screenshot, plus the exported settings (for
 
 For both, theme (id, name) and scheme, the chosen name is `devisions - MCT Comm`.
 
+The monospaced font used is `M1 +1mn Light`.
+
 ![sample](./devisions%20-%20MCT%20Comm.png)
