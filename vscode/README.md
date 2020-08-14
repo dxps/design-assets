@@ -1,5 +1,11 @@
 
 
+## 2020-08-14
+
+Settings changes synced in `settings.json`.
+
+<br/>
+
 ## 2020-06-25
 
 
