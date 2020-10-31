@@ -1,0 +1,6 @@
+
+XFCE
+
+- Extract them into ~/.icons
+- Use "Mouse and Touchpad" option to select them
+
