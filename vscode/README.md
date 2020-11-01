@@ -1,7 +1,7 @@
 
 ## 2020-11-01
 
-Customized the background of _Community Material Theme_ to use a solarized dark color (`#002b36`).
+Customized the background of _Community Material Theme_ (CMT) to use a solarized dark color (`#002b36`).
 
 <br/>
 

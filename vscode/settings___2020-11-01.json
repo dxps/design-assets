@@ -1,4 +1,4 @@
-{
+{
   "activitusbar.alignment": "Right",
   "activitusbar.priority": 0,
   "dart.closingLabels": false,
@@ -35,7 +35,16 @@
   "workbench.iconTheme": "helium-icon-theme",
   "workbench.colorCustomizations": {
     "[Community Material Theme]": {
+      "panel.background": "#002b36",
       "breadcrumb.background": "#002b36",
+      "dropdown.background": "#002b36",
+      "dropdown.listBackground": "#002b36",
+      "input.background": "#002b36",
+      "inputOption.activeBackground": "#002b36",
+      "settings.checkboxBackground": "#014c5f",
+      "settings.textInputBackground": "#014c5f",
+      "settings.dropdownBackground": "#014c5f",
+      "settings.numberInputBackground": "#014c5f",
       "editorPane.background": "#002b36",
       "editorGroupHeader.tabsBackground": "#002b36",
       "editor.background": "#002b36",
@@ -50,7 +59,7 @@
       "statusBar.background": "#002b36",
       "statusBar.foreground": "#668594",
       "tab.activeBackground": "#002b36",
-      "tab.inactiveBackground": "#002b36",
+      "tab.inactiveBackground": "#002b36"
     },
     "[Community Material Theme High Contrast]": {
       "editor.background": "#192227",
@@ -60,7 +69,7 @@
       "tab.inactiveBackground": "#192227",
       "tab.activeForeground": "#5ec59c"
     },
-    "[Qiita]":{
+    "[Qiita]": {
       "statusBar.background": "#374549"
     },
     "[Solarized Dark]": {
