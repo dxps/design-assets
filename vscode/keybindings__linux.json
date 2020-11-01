@@ -1,6 +1,6 @@
 [
   {
-    "key": "ctrl+alt+1",
+    "key": "alt+1",
     "command": "workbench.view.explorer"
   },
   {
