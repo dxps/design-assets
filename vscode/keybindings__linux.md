@@ -22,3 +22,7 @@ Used the ALT-oriented key shortcuts (to mimick the macOS layout, where CMD (inst
     - `ALT + LeftArrow` for going to the previous editor
     - `ALT + RightArrow` for going to the next editor
 - `ALT + w` for closing the active editor
+
+### Menu Bar
+
+- `ALT + F10` to toggle menu bar
