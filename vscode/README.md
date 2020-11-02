@@ -1,4 +1,10 @@
 
+## 2020-11-02
+
+More color customizations to my CMT flavor: panels (active and inactive foreground color to "Problems | Output | Debug Console | Terminal" views) and active tab foreground color.
+
+<br/>
+
 ## 2020-11-01
 
 Customized the background of _Community Material Theme_ (CMT) to use a solarized dark color (`#002b36`).
