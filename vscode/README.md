@@ -1,4 +1,10 @@
 
+## 2020-11-13
+
+Disabled triggering any menu appearance while using ALT key, as it plays an important role in my XFCE desktop.
+
+<br/>
+
 ## 2020-11-02
 
 More color customizations to my CMT flavor: panels (active and inactive foreground color to "Problems | Output | Debug Console | Terminal" views) and active tab foreground color.
