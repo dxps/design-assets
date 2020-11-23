@@ -10,6 +10,7 @@ Used the ALT-oriented key shortcuts (to mimick the macOS layout, where CMD (inst
 - `ALT + 3` to show the Source Control view (`Source Control: Focus on Source Control View` command)
 - `ALT + 4` to show the Run & Debug view (`View: Show Run and Debug` command)
 - `ALT + 5` to show the Extensions view (`View: Show Extensions` command)
+- `ALT + 6` to show the go Test Explorer view (`View: Show go Test Explorer` command)
 
 ### Show All Commands & Go to file
 
@@ -26,3 +27,4 @@ Used the ALT-oriented key shortcuts (to mimick the macOS layout, where CMD (inst
 ### Menu Bar
 
 - `ALT + F10` to toggle menu bar
+

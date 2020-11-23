@@ -1,4 +1,14 @@
 
+
+
+
+## 2020-11-23
+
+1. Added `ALT+6` keybinding to show go Test Explorer.<br/>(see `keybindings__linux.json`)
+1. Added the associated button (for go Test Explorer) to Activitus Bar.<br/>(see `settings___dxps___2020-11-23.json`)
+
+<br/>
+
 ## 2020-11-13
 
 Disabled triggering any menu appearance while using ALT key, as it plays an important role in my XFCE desktop.

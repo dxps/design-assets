@@ -1,3 +1,4 @@
+// Place your key bindings in this file to override the defaultsauto[]
 [
   {
     "key": "alt+1",
@@ -166,5 +167,13 @@
   {
     "key": "alt+f10",
     "command": "workbench.action.toggleMenuBar"
+  },
+  {
+    "key": "alt+6",
+    "command": "-workbench.action.openEditorAtIndex6"
+  },
+  {
+    "key": "alt+6",
+    "command": "workbench.view.extension.testExplorer"
   }
 ]
