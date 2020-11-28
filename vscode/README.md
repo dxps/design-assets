@@ -4,6 +4,8 @@
 
 ## 2020-11-28
 
+Customized the functions (and methods) colors by adding a first entry into `editor.tokenColorCustomizations` settings object.
+
 Customized the hover or intelli-sense windows background and border for a consistent color set with my custom _Community Material Theme_ theme. Result stored in `settings___dxps___2020-11-28.json` file.
 
 ![](./images/2020-11-28___doc_windows_bg_border.png)
