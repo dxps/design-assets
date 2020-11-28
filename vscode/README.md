@@ -2,6 +2,14 @@
 
 
 
+## 2020-11-28
+
+Customized the hover or intelli-sense windows background and border for a consistent color set with my custom _Community Material Theme_ theme. Result stored in `settings___dxps___2020-11-28.json` file.
+
+![](./images/2020-11-28___doc_windows_bg_border.png)
+
+<br/>
+
 ## 2020-11-23
 
 1. Added `ALT+6` keybinding to show go Test Explorer.<br/>(see `keybindings__linux.json`)
