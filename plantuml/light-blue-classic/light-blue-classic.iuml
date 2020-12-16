@@ -1,0 +1,116 @@
+@startuml light-blue-classic-style
+
+skinparam {
+  backgroundColor #fff
+  dpi 300
+  fontName Open Sans
+  fontSize 13
+  PageBorderColor gray
+  ParticipantFontColor #85b4ff
+  roundCorner 4
+  shadowing false
+  titleFontName Ubuntu
+  titleFontColor #85b4ff
+  titleFontSize 17
+}
+
+skinparam activity {
+  backgroundColor #fff
+  barColor #CCC
+  borderColor LightGrey
+  borderThickness 1
+  diamondBorderColor #008cd0
+  diamondBackgroundColor #fff
+  diamondFontName Ubuntu
+  diamondFontColor #666666
+  diamondFontSize 11
+  diamondFontStyle italic
+  fontName Ubuntu
+  fontSize 13
+  startColor #85b4ff
+  endColor #85b4ff
+}
+
+skinparam actor {
+  FontName Ubuntu Light
+  FontSize 13
+}
+
+skinparam arrow {
+  ' Color #a5c2ff
+  Color #9fc6ff
+  FontName Ubuntu
+  FontSize 12
+}
+
+skinparam note {
+  FontName Open Sans
+  FontSize 12
+  FontColor DimGrey
+  BorderColor LightGrey
+  BackgroundColor white
+}
+
+skinparam footer {
+  FontName Ubuntu
+  FontSize 14
+  FontColor DimGrey
+
+}
+
+skinparam sequence {
+  arrowThickness 0.5
+  actorBorderThickness 1.2
+  actorBorderColor #85b4ff
+  backgroundColor #fff
+
+  boxBorderColor #ddd
+  boxBackgroundColor Lavender
+  boxFontColor DimGray
+  boxFontName Ubuntu
+  boxFontSize Open 10
+
+  DividerBorderColor #eee
+  DividerBorderThickness 0.5
+  DividerBackgroundColor #eee
+  DividerFontName Ubuntu
+  DividerFontSize 12
+  DividerFontColor #666666
+  DividerFontStyle Italic
+
+  groupBorderColor #9fc6ff
+  groupBorderThickness 0.6
+  groupHeaderFontColor #888888
+  groupHeaderFontStyle Italic
+  groupHeaderFontSize 11
+  groupBackgroundColor #f9f9f9
+
+  LifeLineBorderColor #cccccc
+  LifeLineBorderThickness 0.7
+
+  ParticipantBackgroundColor White
+  ParticipantBorderColor white
+  ParticipantBorderThickness 0
+  ParticipantFontColor #85b4ff
+  ParticipantFontName Ubuntu
+  ParticipantFontSize 12
+
+  titleFontName Open Sans Light
+  titleFontColor #85b4ff
+  titleFontSize 16
+}
+
+skinparam swimlane {
+  borderColor #dff7ff
+  titleFontName Ubuntu
+  titleFontColor #85b4ff
+  titleFontSize 15
+}
+
+skinparam partition {
+  BorderColor #CCC
+  BorderThickness 1
+  FontColor #grey
+  FontSize 13
+  FontStyle normal
+}

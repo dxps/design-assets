@@ -1,0 +1,31 @@
+@startuml light-blue-classic_example
+
+scale 1000 width
+scale 600 height
+
+!include ./light-blue-classic.iuml
+
+title
+
+Title
+
+<font size="10" color="#85b4ff">2019-06-28</font>
+
+end title
+
+| First User |
+start
+:Do action;
+| Some System|
+:Notify;
+| Another User |
+:Acknowledge;
+| Some System|
+:Push data;
+|   Target System |
+: Store;
+ 
+
+stop
+
+@enduml
