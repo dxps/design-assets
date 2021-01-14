@@ -1,6 +1,12 @@
 
 
 
+## 2021-01-14
+
+Saving the current state of keybindgs setup that I'm using on my lovely Xubuntu.
+
+
+<br/>
 
 ## 2020-11-28
 

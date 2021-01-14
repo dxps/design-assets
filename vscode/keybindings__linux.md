@@ -1,5 +1,5 @@
 
-Used the ALT-oriented key shortcuts (to mimick the macOS layout, where CMD (instead of ALT) is near the SPACE).
+Used ALT-based shortcuts (to mimick the macOS layout, where CMD (instead of ALT) is near the SPACE).
 
 ### Sidebar: Toggling it and Walking through the main views
 
@@ -23,6 +23,19 @@ Used the ALT-oriented key shortcuts (to mimick the macOS layout, where CMD (inst
     - `ALT + LeftArrow` for going to the previous editor
     - `ALT + RightArrow` for going to the next editor
 - `ALT + w` for closing the active editor
+
+### Editing
+
+- `ALT + d` or `ALT + y` for deleting the current line
+- `CTRL + d` for duplicating the current line
+
+The other useful default remained as-is:
+- `ALT + UpArrow` for moving the current line up
+- `ALT + DownArrow` for moving the current line down
+
+### Quick Doc
+
+- `ALT + q` for `Show Hover` that shows the documentation of the element.
 
 ### Menu Bar
 
