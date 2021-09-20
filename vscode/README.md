@@ -5,6 +5,8 @@ And still my customized colors set on top of Community Material Theme remains my
 
 Saved the current `settings.json` and `keybindings__linux.json`.
 
+![](./images/2021-09-20_23-35-14.png)
+
 <br/>
 
 ## 2021-01-14
