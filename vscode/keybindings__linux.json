@@ -232,5 +232,76 @@
     "key": "ctrl+q",
     "command": "-editor.action.showHover",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+q",
+    "command": "workbench.action.quit"
+  },
+  {
+    "key": "ctrl+q",
+    "command": "-workbench.action.quit"
+  },
+  {
+    "key": "ctrl+shift+c",
+    "command": "-workbench.action.terminal.openNativeConsole",
+    "when": "!terminalFocus"
+  },
+  {
+    "key": "ctrl+alt+[",
+    "command": "workbench.action.navigateBack"
+  },
+  {
+    "key": "ctrl+alt+left",
+    "command": "-workbench.action.navigateBack"
+  },
+  {
+    "key": "ctrl+alt+]",
+    "command": "workbench.action.navigateForward"
+  },
+  {
+    "key": "ctrl+alt+right",
+    "command": "-workbench.action.navigateForward"
+  },
+  {
+    "key": "alt+9",
+    "command": "-workbench.view.scm",
+    "when": "editorFocus && workbench.scm.active"
+  },
+  {
+    "key": "alt+9",
+    "command": "-workbench.action.toggleSidebarVisibility",
+    "when": "!editorFocus"
+  },
+  {
+    "key": "alt+9",
+    "command": "-workbench.action.openEditorAtIndex9"
+  },
+  {
+    "key": "alt+7",
+    "command": "thunder-client-sidebar.focus"
+  },
+  {
+    "key": "alt+7",
+    "command": "-outline.focus"
+  },
+  {
+    "key": "alt+9",
+    "command": "outline.focus"
+  },
+  {
+    "key": "ctrl+alt+right",
+    "command": "-workbench.action.moveEditorToNextGroup"
+  },
+  {
+    "key": "ctrl+shift+alt+right",
+    "command": "workbench.action.moveEditorToNextGroup"
+  },
+  {
+    "key": "ctrl+alt+left",
+    "command": "workbench.action.navigateLeft"
+  },
+  {
+    "key": "ctrl+alt+right",
+    "command": "workbench.action.navigateRight"
   }
 ]

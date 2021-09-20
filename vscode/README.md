@@ -1,10 +1,15 @@
+## 2021-09-20
 
+Still for some (4 or so) months on Pop!\_OS and still loving it.<br/>
+And still my customized colors set on top of Community Material Theme remains my favorite.
 
+Saved the current `settings.json` and `keybindings__linux.json`.
+
+<br/>
 
 ## 2021-01-14
 
-Saving the current state of keybindgs setup that I'm using on my lovely Xubuntu.
-
+Saving the current state of keybindings setup that I'm using on my lovely Xubuntu.
 
 <br/>
 
@@ -51,13 +56,10 @@ Settings changes synced in `settings.json`.
 
 ## 2020-06-25
 
-
 Added `editorSuggetWidget` colors for an better contrast.<br/>
-Settings saved in [settings___2020-06-25.json](./settings___2020-06-25.json) file.
+Settings saved in [settings\_\_\_2020-06-25.json](./settings___2020-06-25.json) file.
 
 ![sample](./images/2020-06-25_editorSuggestWidget_colors.png)
-
-
 
 <br/>
 
@@ -66,8 +68,6 @@ Settings saved in [settings___2020-06-25.json](./settings___2020-06-25.json) fil
 Using _Community Material Theme_ and some some other customizations such as theme specific color customizations, the lovely "M+ 1mn" font, and dart.lineLength extended to 117. These are backed up in `settings___2020-06-22.json` file.
 
 ![Sample screenshot](./images/2020-06-22_23h55m.png)
-
-
 
 <br/>
 
@@ -79,13 +79,11 @@ Now I am using a customized Solarized Dark based theme.<br/>
 And this is a sample of the theme:
 ![my custom Solarized Dark](./images/my_custom_solarized_dark.png)
 
-
 <br/>
 
 ## 2020-05
 
 On my Xubuntu 20.04 I am using [`settings__xubuntu_snap.json`](./settings__xubuntu_snap.json) file as VSCode settings.
-
 
 <br/>
 
@@ -101,40 +99,36 @@ Settings to customize the foreground and background of the status bar when you a
 
 ```json
 {
-    "workbench.colorCustomizations": {
-        "statusBar.debuggingBackground": "#203447",
-        "statusBar.debuggingForeground": "#4B987E",
-    },
+  "workbench.colorCustomizations": {
+    "statusBar.debuggingBackground": "#203447",
+    "statusBar.debuggingForeground": "#4B987E"
+  }
 }
 ```
-
-
 
 <br/>
 
 ## Dart > Closing Labels
 
 You can turn off showing the closing labels using:
+
 ```json
 {
-    "dart.closingLabels": false,
+  "dart.closingLabels": false
 }
 ```
-
-
 
 <br/>
 
 ## Debug Console > A very condensed font
 
 This is what I currently use:
+
 ```json
 {
-    "debug.console.fontFamily": "PhoenicaMono200, '64-SRC-Medium'",
+  "debug.console.fontFamily": "PhoenicaMono200, '64-SRC-Medium'"
 }
 ```
-
-
 
 <br/>
 
@@ -143,11 +137,12 @@ This is what I currently use:
 The current version 1.9.0 does not provide (yet) support (options) for customizing the status bar.
 
 Meanwhile, the following commands can be used from Developer Tools (`Help > Toggle Developer Tools`):
+
 ```javascript
-document.getElementById("workbench.parts.statusbar").style.background = "#333"
-document.getElementById("workbench.parts.statusbar").style.color = "gray"
+document.getElementById('workbench.parts.statusbar').style.background = '#333'
+document.getElementById('workbench.parts.statusbar').style.color = 'gray'
 ```
+
 And this is the result:
 
 ![](https://github.com/visvadw/design-assets/raw/master/vscode/images/statusbar-custom-dark-1.png)
-
