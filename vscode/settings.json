@@ -54,8 +54,7 @@
   "editor.cursorSmoothCaretAnimation": true,
   "editor.formatOnSave": true,
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'M+ 1mn', Mononoki, LetterGothicFS-Medium, LetterGothicMono, TheSansMonoCd-W5Regular, Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontSize": 16,
+  "editor.fontFamily": "Hasklig, 'M+ 1mn', Mononoki, LetterGothicFS-Medium, LetterGothicMono, TheSansMonoCd-W5Regular, Menlo, Monaco, 'Courier New', monospace",
   "editor.matchBrackets": "never",
   "editor.minimap.enabled": false,
   "editor.scrollBeyondLastColumn": 2,
@@ -105,7 +104,6 @@
       "editor.findMatchBorder": "#efff13",
       "editorRuler.foreground": "#0f3c47",
       "editor.selectionForeground": "#fdc34e",
-      // "editor.selectionHighlightBorder": "#03958e",
       "editor.selectionHighlightBorder": "#00ff22",
       "editor.selectionHighlightBackground": "#002b36",
       "editor.lineHighlightBackground": "#023b49",
@@ -118,8 +116,8 @@
       "input.background": "#033542",
       "inputOption.activeBackground": "#033542",
       "list.hoverBackground": "#144d5c",
-      "list.activeSelectionBackground": "#012f3a",
-      "list.activeSelectionForeground": "#77fcee",
+      "list.activeSelectionForeground": "#00ff22",
+      "list.activeSelectionBackground": "#002b36",
       "notifications.background": "#063d4b",
       "panel.background": "#033542",
       "panelTitle.activeForeground": "#82ceba",
@@ -338,5 +336,6 @@
     "<C-a>": false,
     "<C-c>": false,
   },
-  "window.menuBarVisibility": "hidden"
+  "window.menuBarVisibility": "hidden",
+  "editor.fontSize": 14.5
 }
