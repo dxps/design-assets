@@ -1,0 +1,10 @@
+
+The following color changes were performed into this Pop!_OS influenced version of the "Qogir Dark" theme:
+
+purpose                Qogir Dark    Qogir Dark popos influence
+---------------------------------------------------------------------
+active highlight bg    5294E2        94EBEB  -->  72B5B5  -->  5D9494
+hover active bg        4A85CB        7DC7C7
+menu hover bg          44464F        4B7878
+
+
