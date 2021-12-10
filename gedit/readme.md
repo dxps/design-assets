@@ -1,9 +1,21 @@
 ## GEdit
 
-### Rainbow Neon small variation
+Install these color schemes by:
+- copying them to `~/.local/share/gedit/styles`
+- restart GEdit
+- select the theme from _Preferences_ > _Fonts & Colors_ tab.
 
-Install this theme by copying in to `~/.local/share/gedit/styles`, restart GEdit and select the themes in the preferences.
+<br/>
+
+### Rainbow Neon small variation
 
 ![](./gedit___rainbow-neon___adapta-nokto.png)
 
 
+<br/>
+
+### Tango variation
+
+![](tango_dxps.png)
+
+<br/>
