@@ -5,11 +5,16 @@ Install these color schemes by:
 - restart GEdit
 - select the theme from _Preferences_ > _Fonts & Colors_ tab.
 
+
+
 <br/>
 
-### Rainbow Neon small variation
+### Tango Graphite variation
 
-![](./gedit___rainbow-neon___adapta-nokto.png)
+My currently used theme, matching my nowadays preferred [Graphite GTK](https://github.com/dxps/Graphite-gtk-theme) theme.
+
+![](tango_dxps_graphite.png)
+
 
 
 <br/>
@@ -17,5 +22,15 @@ Install these color schemes by:
 ### Tango variation
 
 ![](tango_dxps.png)
+
+
+
+<br/>
+
+### Rainbow Neon small variation
+
+![](./gedit___rainbow-neon___adapta-nokto.png)
+
+
 
 <br/>
