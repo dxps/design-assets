@@ -18,3 +18,13 @@
   padding: 8px
 }
 
+/* --- --- Scrollbars --- --- */
+
+.monaco-scrollable-element > .scrollbar > .slider {
+  border-radius: 8px 8px 8px 8px;
+  /* 
+    For width and height there are VSCode settings like:
+    - "editor.scrollbar.horizontalScrollbarSize"
+    - "editor.scrollbar.verticalScrollbarSize"
+ */
+}
