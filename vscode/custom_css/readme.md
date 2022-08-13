@@ -36,3 +36,7 @@ In `settings.json` file, include the full path to that file:
 In VSCode, run *Enable Custom CSS and JS* command (ctrl+shift+p).<br/>
 Note: If you update the CSS file, you have to re-run _Enable Custom CSS and JS Loader_ command in VSCode.
 
+The result (using "gruvboxConcoctis dark medium" color scheme) - which I really love - looks like this:
+
+![](../images/2022-08-13___popups_custom_css.png)
+
