@@ -4,8 +4,8 @@
 .monaco-editor .monaco-hover {
   border-radius: 8px 8px 8px 8px;
   box-shadow: 0 0 12px 12px rgba(0, 0, 0, 0.2);
-  margin: -4px;
   padding: 4px;
+  width: 550px !important;
 }
 
 
@@ -17,4 +17,34 @@
   margin: 4px;
   padding: 8px
 }
+
+.monaco-editor .overlayWidgets .suggest-details-container {
+  width: 500px;
+  border-radius: 8px 8px 8px 8px;
+  box-shadow: 0 0 12px 12px rgba(0, 0, 0, 0.2);
+  max-height: 800px !important;
+  max-width: 70%;
+}
+
+/* --- --- Notifications --- --- */
+
+.monaco-workbench>.notifications-center , 
+.monaco-workbench>.notifications-toasts ,
+.monaco-workbench>.notifications-toasts .notification-toast-container>.notification-toast,
+.monaco-workbench .notifications-list-container .notification-list-item {
+  border-radius: 6px;
+}
+
+.monaco-text-button {
+  border-radius: 4px;
+}
+
+
+/* --- --- Quick Input --- --- */
+
+.quick-input-widget {
+  border-radius: 0 0 8px 8px;
+  padding: 4px
+}
+
 
