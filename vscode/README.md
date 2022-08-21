@@ -1,3 +1,10 @@
+## 2022-08-21
+
+As the journey continues ... :) my current setup (with some color customizations and [custom CSS](./custom_css/readme.md)) looks like this:
+![](./custom_css/../images/2022-08-21___vscode_rounded_popups_with_custom_css.png)
+
+<br/>
+
 ## 2021-09-20
 
 Still for some (4 or so) months on Pop!\_OS and still loving it.<br/>
@@ -91,7 +98,9 @@ On my Xubuntu 20.04 I am using [`settings__xubuntu_snap.json`](./settings__xubun
 
 ## Theme specifics
 
-- [Qiita theme > Status Bar colors](qiita_theme.md)
+Using Qiita theme (defined [`qiita_theme.md`](./qiita_theme.md)):
+
+![](images/qiita_theme.png)
 
 <br/>
 

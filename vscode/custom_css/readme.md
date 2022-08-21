@@ -38,5 +38,5 @@ Note: If you update the CSS file, you have to re-run _Enable Custom CSS and JS L
 
 The result (using "gruvboxConcoctis dark medium" color scheme) - which I really love - looks like this:
 
-![](../images/2022-08-13___popups_custom_css.png)
+![](../images/2022-08-21___vscode_rounded_popups_with_custom_css.png)
 
