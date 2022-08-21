@@ -5,7 +5,12 @@
   border-radius: 8px 8px 8px 8px;
   box-shadow: 0 0 12px 12px rgba(0, 0, 0, 0.2);
   padding: 4px;
-  width: 550px !important;
+  width: 650px !important;
+  max-height: 80% !important;
+}
+
+.monaco-scrollable-element > .scrollbar > .slider {
+  width: 7px !important;
 }
 
 
