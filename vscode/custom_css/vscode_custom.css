@@ -37,9 +37,14 @@
   border-radius: 8px 8px 8px 8px;
 }
 
-.monaco-list>.monaco-scrollable-element {
+tree>.monaco-list>.monaco-scrollable-element {
   margin-right: -6px;
   padding-right: 4px;
+  border-radius: 8px;
+}
+
+.monaco-list>.monaco-scrollable-element {
+  border-radius: 8px;
 }
 
 .codeActionMenuWidget {
@@ -55,11 +60,13 @@
 
 /* --- --- Notifications --- --- */
 
-.monaco-workbench>.notifications-center , 
+.monaco-workbench>.notifications-center ,
 .monaco-workbench>.notifications-toasts ,
 .monaco-workbench>.notifications-toasts .notification-toast-container>.notification-toast,
-.monaco-workbench .notifications-list-container .notification-list-item {
-  border-radius: 6px;
+.monaco-workbench .notifications-list-container .notification-list-item ,
+.monaco-list-rows ,
+.notifications-list-container {
+  border-radius: 8px;
 }
 
 .monaco-text-button {
