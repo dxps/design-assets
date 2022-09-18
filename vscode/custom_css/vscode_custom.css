@@ -42,6 +42,16 @@
   padding-right: 4px;
 }
 
+.codeActionMenuWidget {
+  border-radius: 8px 8px 8px 8px;
+  box-shadow: 0 0 12px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Hide the scrollbar on the suggest window 
+   (shown on my laptop, not desktop) */ 
+.monaco-workbench [tabindex="0"]:focus {
+  overflow: hidden;
+}
 
 /* --- --- Notifications --- --- */
 
