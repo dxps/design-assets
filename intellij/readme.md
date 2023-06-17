@@ -4,6 +4,12 @@ My IntelliJ (not IDEA specific) related design artifacts. Nowadays, I am using V
 
 <br/>
 
+### 2023-06-17 | Gruvbox Dark Medium
+
+Based on [Gruvbox Theme](https://plugins.jetbrains.com/plugin/12310-gruvbox-theme), I'm using a slightly custom [dxps Gruvbox Dark Medium](./color_schemes/dxps_Gruvbox_Dark_Medium.icls) color scheme.
+
+<br/>
+
 ### 2020-07-23 | Material Custom Theme - Community flavor
 
 Inspired and influenced by VSCode's [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme), I am now using this flavor.
