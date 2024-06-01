@@ -7,19 +7,19 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
-    <option name="CARET_ROW_COLOR" value="1d1c1c" />
+    <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
     <option name="DOCUMENTATION_COLOR" value="32302f" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="d0d0d" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="282828" />
-    <option name="INDENT_GUIDE" value="665c54" />
-    <option name="LINE_NUMBERS_COLOR" value="5e5451" />
+    <option name="INDENT_GUIDE" value="3d3636" />
+    <option name="LINE_NUMBERS_COLOR" value="554d42" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="RIGHT_MARGIN_COLOR" value="1a1919" />
+    <option name="RIGHT_MARGIN_COLOR" value="665c54" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
-    <option name="SELECTION_BACKGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="3c3836" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3c3836" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282828" />
@@ -45,7 +45,7 @@
     <option name="ScrollBar.thumbBorderColor" value="50494588" />
     <option name="ScrollBar.thumbColor" value="50494588" />
     <option name="ScrollBar.trackColor" value="" />
-    <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="TEARLINE_COLOR" value="3d3636" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -400,7 +400,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b39b67" />
+        <option name="FOREGROUND" value="cba694" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -466,7 +466,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="87b365" />
+        <option name="FOREGROUND" value="b2be6d" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -525,7 +525,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1a1919" />
+        <option name="BACKGROUND" value="504945" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -601,11 +601,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="f9f5d7" />
-      </value>
-    </option>
-    <option name="INLAY_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="787878" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -967,7 +962,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="d8c4c4" />
+        <option name="FOREGROUND" value="fbf1c7" />
         <option name="BACKGROUND" value="282828" />
       </value>
     </option>
@@ -981,6 +976,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
+        <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
     </option>
