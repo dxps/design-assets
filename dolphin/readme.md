@@ -19,3 +19,19 @@ Terminal=false
 StartupWMClass=dolphin
 ~ ❯
 ```
+
+Additionally, since Dolphin does not support a default stylesheet, in order to have it correctly started from Pop!\_OS Dock,
+I had to do the following customization:
+
+```shell
+/usr/bin ❯ ls -l dolphin*
+-rwxr-xr-x 1 root root      95 Jul 13 17:34 dolphin
+-rwxr-xr-x 1 root root 1034712 Jul  5  2022 dolphin.bin
+/usr/bin ❯
+/usr/bin ❯ cat dolphin
+#!/bin/sh
+
+dolphin.bin -stylesheet /home/dxps/dev/dxps_gh/design-assets/dolphin/dolphin.css &
+
+/usr/bin ❯
+```
