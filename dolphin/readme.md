@@ -1,9 +1,9 @@
 # A stylesheet for Dolphin
 
-This is a style sheet for Dolphin file manager.
-To use it, you need to start Dolphin using `dolphin -stylesheet dolphin.css`
+This is the style sheet that I use for Dolphin file manager.
+To use it, Dolphin needs to know about it through a flag: `dolphin -stylesheet dolphin.css`
 
-On Gnome desktop environment you can use this "desktop shortcut":
+On Gnome desktop environment, a "desktop shortcut" can be used for this purpose:
 
 ```shell
 ~ ❯ cat ~/.local/share/applications/dolphin.desktop
@@ -20,6 +20,12 @@ StartupWMClass=dolphin
 ~ ❯
 ```
 
+<br/>
+
+## Additional Customizations
+
+### Start with the stylesheet by default
+
 Additionally, since Dolphin does not support a default stylesheet, in order to have it correctly started from Pop!\_OS Dock,
 I had to do the following customization:
 
@@ -35,3 +41,24 @@ dolphin.bin -stylesheet /home/dxps/dev/dxps_gh/design-assets/dolphin/dolphin.css
 
 /usr/bin ❯
 ```
+
+<br/>
+
+### QT5 Customizations
+
+Besides installing Dolphin using:
+
+```shell
+sudo add-apt-repository ppa:kubuntu-ppa/backports
+sudo apt update
+sudo apt install dolphin
+```
+
+I also installed _Qt5 Settings_ tool using `sudo apt install qt5ct`.
+
+Added `QT_QPA_PLATFORMTHEME=qt5ct` to `/etc/environment` file.
+
+Started _Qt5 Settings_ and:
+
+-   in Appearance tab, set Style: gtk2
+-   in Fonts tab, set General: Fira Sans 11 and Fixed width: 64-SRC-DZ-MEdium-NerdFont 10
