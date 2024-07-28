@@ -1,3 +1,13 @@
+## 2024-07-28
+
+Still using _Gruvbox Concoctis_ <a href="https://marketplace.visualstudio.com/items?itemName=wheredoesyourmindgo.gruvbox-concoctis" target="_">theme</a>, with a slightly modified version of 64-SRC [font](https://www.myfonts.com/collections/64-src-font-ilott-type).
+
+![](./images/2024-07-28.png)
+
+Exported the [settings.json](./settings.json) just as a backup, otherwise the settings are sync automatically through VSCode "Settings Sync" [feature](https://code.visualstudio.com/docs/editor/settings-sync).
+
+<br/>
+
 ## 2022-08-21
 
 As the journey continues ... :) my current setup (with some color customizations and [custom CSS](./custom_css/readme.md)) looks like this:
@@ -110,10 +120,10 @@ Settings to customize the foreground and background of the status bar when you a
 
 ```json
 {
-  "workbench.colorCustomizations": {
-    "statusBar.debuggingBackground": "#203447",
-    "statusBar.debuggingForeground": "#4B987E"
-  }
+	"workbench.colorCustomizations": {
+		"statusBar.debuggingBackground": "#203447",
+		"statusBar.debuggingForeground": "#4B987E"
+	}
 }
 ```
 
@@ -125,7 +135,7 @@ You can turn off showing the closing labels using:
 
 ```json
 {
-  "dart.closingLabels": false
+	"dart.closingLabels": false
 }
 ```
 
@@ -137,7 +147,7 @@ This is what I currently use:
 
 ```json
 {
-  "debug.console.fontFamily": "PhoenicaMono200, '64-SRC-Medium'"
+	"debug.console.fontFamily": "PhoenicaMono200, '64-SRC-Medium'"
 }
 ```
 
